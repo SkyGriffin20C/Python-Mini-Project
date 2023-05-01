@@ -1,2 +1,2 @@
 # Python-Mini-Project
-B133,B147,B163 Code for compressing images
+B133,B147,B162 Code for compressing images
